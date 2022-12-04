@@ -1,4 +1,7 @@
+### Advent of Code ###
+    ### Day 2 ###
 
+# Part One
 
 with open(r'C:\Users\rgrie\PycharmProjects\AdventOfCode22\input\2_1.txt') as file_in:
     guide = []
@@ -30,6 +33,8 @@ for i in range(len(guide)):
             score += val
 
 print(score)
+
+# Part Two
 
 scoring2 = [
     ['A', 'X'],[3], ['A', 'Y'],[4], ['A', 'Z'],[8],

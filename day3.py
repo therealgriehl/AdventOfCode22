@@ -1,3 +1,7 @@
+### Advent of Code ###
+    ### Day 3 ###
+
+# Part One
 
 with open(r'C:\Users\rgrie\PycharmProjects\AdventOfCode22\input\3_1.txt') as file_in:
     content = []
@@ -39,7 +43,8 @@ for element in doubles:
 
 print(sum)
 
-### Part Two
+# Part Two
+
 with open(r'C:\Users\rgrie\PycharmProjects\AdventOfCode22\input\3_1.txt') as file_in:
     contenttwo = []
     for line in file_in:

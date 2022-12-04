@@ -1,4 +1,9 @@
+### Advent of Code ###
+    ### Day 1 ###
+
 import numpy as np
+
+# Part One and Two
 
 data = np.loadtxt(r'C:\Users\rgrie\PycharmProjects\AdventOfCode22\input\1_1.txt')
 

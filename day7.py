@@ -1,5 +1,5 @@
 ### Advent of Code ###
-### Day 6 ###
+### Day 7 ###
 
 import re
 from collections import defaultdict

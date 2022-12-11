@@ -37,7 +37,7 @@ for i,instruct in enumerate(instructions):
             pos_tail[1] = old_pos_head[1]
             
         
-        temp_pos = str(pos_tail[0]) + str(pos_tail[1])
+        temp_pos = str(pos_tail[0]) + '/' +str(pos_tail[1])
         positions[temp_pos] = 0
 
 print(len(positions))
